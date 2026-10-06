@@ -18,3 +18,4 @@ export const ArticleParamsForm = (): React.JSX.Element => {
     </>
   );
 };
+12
